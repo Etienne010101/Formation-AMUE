@@ -1,6 +1,6 @@
 ---
 title: "Initiation au big data"
-author: Ville de Marseille et datactivi.st
+author: AMUE et datactivi.st
 ratio: 16x10
 output:
   rmdshower::shower_presentation:
@@ -13,7 +13,7 @@ output:
 
 ## Introduction au big data
 
-
+![alt=hauteur](./img/Logo_amue.png){width=200px}
 <p></p>
 <p></p><p></p><p>
 [Joël Gombin](mailto:joel@datactivi.st)
@@ -22,9 +22,6 @@ output:
 Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille 
 </p>
 
-<p>
-Pad collaboratif : https://frama.link/bigdata_marseille
-</p>
 
 ## 5 minutes, 20 données
 
@@ -447,10 +444,3 @@ Justifications :
 - [Etat des lieux juridiques](https://www.cairn.info/revue-les-cahiers-du-numerique-2013-1-page-21.htm)
 
 
-# Evaluation
-
-## Evaluation
-
-https://frama.link/eval_mrs
-
-Merci !

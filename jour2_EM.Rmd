@@ -1,6 +1,6 @@
 ---
 title: "Initiation au big data (2)</BR>État-major de la DINSI"
-author: Ville de Marseille et datactivi.st
+author: AMUE et datactivi.st
 output:
   xaringan::moon_reader:
     css: [default, assets/xaringan.css]
@@ -535,10 +535,3 @@ http://xyz.insightdataengineering.com/blog/pipeline_map.html
 ---
 class: inverse, center, middle
 
-## Evaluation
-
-https://frama.link/eval_mrs_EM2
-
----
-class: inverse, center, middle
-# Merci !

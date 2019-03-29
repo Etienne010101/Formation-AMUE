@@ -1,6 +1,6 @@
 ---
 title: "Initiation au big data</BR>État-major de la DINSI"
-author: Ville de Marseille et datactivi.st
+author: AMUE et datactivi.st
 output:
   xaringan::moon_reader:
     css: [default, assets/xaringan.css]
@@ -46,7 +46,6 @@ Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille
 
 Ces slides en ligne : http://datactivi.st/formation_marseille/jour1_EM.html
 
-Pad collaboratif : https://frama.link/bigdata_marseille_EM
 
 ---
 ## 5 minutes, 20 données
@@ -411,10 +410,4 @@ Justifications :
 
 ---
 class:inverse, center, middle
-## Evaluation
 
-https://frama.link/eval_mrs
-
----
-class: inverse, center, middle
-Merci !

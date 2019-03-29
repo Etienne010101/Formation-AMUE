@@ -1,6 +1,6 @@
 ---
 title: "Initiation au big data"
-author: Ville de Marseille et datactivi.st
+author: AMUE et datactivi.st
 ratio: 16x10
 output:
   rmdshower::shower_presentation:
@@ -22,9 +22,7 @@ output:
 Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille 
 </p>
 
-<p>
-Pad collaboratif : https://frama.link/bigdata_marseille2
-</p>
+
 
 # Objectifs de la journée
 
@@ -380,14 +378,4 @@ De 10 à 100x plus rapide que Hadoop
 ## Une carte interactive 
 
 http://xyz.insightdataengineering.com/blog/pipeline_map.html
-
-
-
-# Evaluation
-
-## Evaluation
-
-https://frama.link/eval_mrs
-
-Merci !
 
