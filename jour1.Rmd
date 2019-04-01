@@ -19,7 +19,7 @@ output:
 [Joël Gombin](mailto:joel@datactivi.st)
 </p>
 <p>
-Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille 
+
 </p>
 
 

@@ -19,7 +19,6 @@ output:
 [Samuel Goëta](mailto:samuel@datactivi.st) et [Joël Gombin](mailto:joel@datactivi.st)
 </p>
 <p>
-Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille 
 </p>
 
 

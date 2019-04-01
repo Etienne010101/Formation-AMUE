@@ -39,14 +39,6 @@ background-position: 50% 50%
 
 Joël
 
----
-class: center, middle
-
-Retrouvez les matériaux sur https://github.com/datactivist/formation_marseille 
-
-Ces slides en ligne : http://datactivi.st/formation_marseille/jour2_EM.html
-
-Pad collaboratif : https://frama.link/bigdata_marseille_EM
 
 ---
 ## Objectifs de la journée
